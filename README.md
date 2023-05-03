@@ -18,8 +18,8 @@ List of papers with code:
 3. Honorary Associate Professor, Department of Statistics, University of Warwick
 4. Division of Mathematical Sciences, Nanyang Technological University
 
-Links to paper: [[ArXiv]](TODO) [[ResearchGate]](https://www.researchgate.net/publication/370462485_Memory_of_recurrent_networks_Do_we_compute_it_right)
+Links to paper: [[ArXiv]](https://arxiv.org/abs/2305.01457) [[ResearchGate]](https://www.researchgate.net/publication/370462485_Memory_of_recurrent_networks_Do_we_compute_it_right)
 
 We provide the scripts necessary to reproduce all figures in the paper. All code was written in MATLAB.
 
-Folder: **[`mem_recurrent_networks_right_2023`](TODO)**
+Folder: **[`mem_recurrent_networks_right_2023`](https://github.com/Learning-of-Dynamic-Processes/memorycapacity/tree/main/mem_recurrent_networks_right_2023)**
