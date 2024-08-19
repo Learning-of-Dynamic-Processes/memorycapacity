@@ -17,8 +17,8 @@ Main scripts:
 
 - `mc_krylov_eigs.m`: reproduces plots in Figure 3 by choosing the appropriate distributions for `A`;
 
-- `mc_compute_bands.m`: reproduces plots in Figures 5 and 6 by choosing the appropriate distributions for `A` and `C`;
+- `mc_compute_bands.m`: reproduces plots in Figures 4 and 5 by choosing the appropriate distributions for `A` and `C`;
 
-- `mc_plot_connect_eigenvalues.m`: reproduces plots in Figure 7 by choosing the appropriate distribution for `A`;
+- `mc_plot_connect_eigenvalues.m`: reproduces plots in Figure 6 by choosing the appropriate distribution for `A`;
 
 - `mc_compute_showcase.m`: allows to create simple plots for comparing the naive MC estimation method with OSM and OSM+, our proposals;
